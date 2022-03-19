@@ -38,3 +38,4 @@ class MyApp extends StatelessWidget {
           mainAxisSize: MainAxisSize.max,
           children: <Widget>[
             Expanded(
+              child: Root(),
