@@ -35,3 +35,4 @@ class MyApp extends StatelessWidget {
       ],
       home: Wrapper(
         child: Column(
+          mainAxisSize: MainAxisSize.max,
