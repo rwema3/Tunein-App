@@ -1,0 +1,107 @@
+name: Tunein
+description: A dynamically themed music player with built in casting support made with Flutter
+version: 0.1.1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayer:
+    git:
+      ref: master
+      url: https://github.com/moda20/audioplayer
+  path_provider: ^1.1.0
+  flutter_reorderable_list:  ^0.1.5
+    #git:
+      #url: https://github.com/adamkoch/flutter_reorderable_list
+  rxdart: ^0.23.1
+  sliding_up_panel: ^0.3.4
+  shared_preferences: ^0.5.3+1
+  media_notification:
+    git:
+      url: https://github.com/moda20/flutter_media_notification
+      ref: master
+  simple_permissions:
+    git:
+      url: https://github.com/tq-systems/simple_permissions.git
+  permission_handler: ^5.0.1+1
+  get_it: ^1.0.3+1
+  crypto: ^2.0.6
+  uuid: ^2.0.2
+  page_transition: "^1.1.5"
+  flutter_custom_dialog: ^1.0.14
+  fading_edge_scrollview:
+    git:
+      url: https://github.com/moda20/fading_edge_scrollview
+  string_similarity: ^1.0.1
+  flushbar: "^1.9.1"
+  settings_ui:
+    git:
+      url: https://github.com/moda20/flutter-settings-ui.git
+  #flutter_i18n: ^0.20.1
+  marquee: ^1.3.1
+  flutter_isolate: ^1.0.0+13
+  dio: ^3.0.9
+  dio_flutter_transformer: ^3.0.2
+  morpheus: ^1.2.2+1
+  animations: ^1.0.0+5
+  connectivity: ^0.4.8+2
+  badges: ^1.1.1
+  popup_menu: ^1.0.5
+  upnp:
+    git:
+      url: https://github.com/moda20/upnp.dart
+      ref: master
+  flutter_file_meta_data:
+    git:
+      url: https://github.com/moda20/flutter_file_meta_data
+      ref: master
+  dart_ping: ^1.0.0
+#  preload_page_view:
+#    git:
+#      url: https://github.com/moda20/preload_page_view
+  toast:
+    git:
+      url: https://github.com/moda20/FlutterToast
+      ref: master
+  expandable: ^4.1.4
+  ext_storage: ^1.0.3
+  flutter_inner_drawer: "^0.5.7+2"
+  url_launcher: ^5.5.0
+  dart_tags: ^0.3.1
+  autocomplete_textfield: ^1.7.3
+  tunein_image_utils_plugin:
+    git:
+      url: https://github.com/moda20/tunein_image_utils_plugin
+
+  media_gallery: ^0.1.5
+  extended_tabs: ^0.2.3
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+ 
+
+flutter:
+  assets:
+    - images/
+    - locale/
+  fonts:
+    - family: Boxicons
+      fonts:
+        - asset: fonts/boxicons.ttf
+          weight: 400
+    - family: Fontawesome
+      fonts:
+        - asset: fonts/fa.ttf
+          weight: 400
+    - family: LigatureSymbols
+      fonts:
+          - asset: fonts/LigatureSymbols-2.11.ttf
+            weight: 400
+
+
+
+  
+  uses-material-design: true
