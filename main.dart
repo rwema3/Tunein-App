@@ -68,3 +68,4 @@ class Wrapper extends StatelessWidget {
       backdropOpacity: 0.5,
       parallaxEnabled: true,
         onPanelClosed:(){
+          layoutService.albumPlayerPageController.jumpToPage(1);
