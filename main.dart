@@ -62,4 +62,3 @@ class Wrapper extends StatelessWidget {
     return SlidingUpPanel(
       panel: NowPlayingScreen(controller: layoutService.albumPlayerPageController),
       controller: layoutService.globalPanelController,
-      minHeight: 60,
