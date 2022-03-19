@@ -67,3 +67,4 @@ class Wrapper extends StatelessWidget {
       backdropEnabled: true,
       backdropOpacity: 0.5,
       parallaxEnabled: true,
+        onPanelClosed:(){
