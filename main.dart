@@ -84,4 +84,5 @@ class Wrapper extends StatelessWidget {
         color: MyTheme.darkRed,
         home: child,
       ),
-   
+    );
+  }
