@@ -45,4 +45,3 @@ class MyApp extends StatelessWidget {
               color: Colors.blue,
             )
           ],
-        ),
