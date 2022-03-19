@@ -57,3 +57,4 @@ class Wrapper extends StatelessWidget {
 
   final layoutService = locator<LayoutService>();
 
+  @override
