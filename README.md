@@ -1,16 +1,7 @@
-# 🎧 Flutter Music Player [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Codemagic build status](https://api.codemagic.io/apps/5d29b3b3db951153a6ceef80/5d29b3b3db951153a6ceef7f/status_badge.svg)](https://codemagic.io/apps/5d29b3b3db951153a6ceef80/5d29b3b3db951153a6ceef7f/latest_build)
-
-
-
+# 🎧 Flutter Music Player 
 ## Contact me
-
-*email:* kadhem03@gmail.com
-
-*Gitter:* https://gitter.im/Moda20TuneIn/community
-
+*email:* rwemadominik3@gmail.com
 Thank you in advance 👍
-
-
 
 ## Getting Started 🚀
 
@@ -70,14 +61,7 @@ Thank you in advance 👍
 | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | -----------------------------------------|
 | <img src="screenshots/11.png" width="250"> | <img src="screenshots/6.png" width="250"> | <img src="screenshots/13.png" width="250"> | <img src="screenshots/14.png" width="250">|
 
-## Support me
+## Author:
 
-You can support me by:
-
-⭐️ this repo if you like it.
-
-Buy me a cup of coffee ☕️:
-
-*NOT there yet*
-
+>Bagirishya Rwema Dominique
 
