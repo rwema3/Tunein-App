@@ -41,4 +41,3 @@ class MyApp extends StatelessWidget {
               child: Root(),
             ),
             Container(
-              height: 60,
