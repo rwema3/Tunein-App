@@ -28,4 +28,3 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     //LanguageService.flutterI18nDelegate.load(null);
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
