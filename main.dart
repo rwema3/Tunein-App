@@ -13,4 +13,3 @@ import 'services/locator.dart';
 import 'services/languageService.dart';
 Nano nano = Nano();
 
-void main() async {
