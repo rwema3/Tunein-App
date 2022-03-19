@@ -21,3 +21,4 @@ void main() async {
   setupLocator();
   runApp(new MyApp());
 }
+
