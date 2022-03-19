@@ -52,3 +52,4 @@ class MyApp extends StatelessWidget {
 }
 
 class Wrapper extends StatelessWidget {
+  final Widget child;
