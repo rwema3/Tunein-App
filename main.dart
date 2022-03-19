@@ -80,4 +80,5 @@ class Wrapper extends StatelessWidget {
       ),
       body: MaterialApp(
         debugShowCheckedModeBanner: false,
+        title: "Tune In Music Player",
    
