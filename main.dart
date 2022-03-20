@@ -72,3 +72,4 @@ class Wrapper extends StatelessWidget {
         },
         onPanelSlide: (value){
           if(value>=0.3){
+            layoutService.onPanelOpen(value);
