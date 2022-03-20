@@ -83,4 +83,3 @@ class Wrapper extends StatelessWidget {
         title: "Tune In Music Player",
         color: MyTheme.darkRed,
         home: child,
-      ),
