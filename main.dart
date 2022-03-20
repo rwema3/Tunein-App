@@ -51,4 +51,3 @@ class MyApp extends StatelessWidget {
   }
 }
 
-class Wrapper extends StatelessWidget {
