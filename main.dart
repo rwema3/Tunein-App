@@ -20,3 +20,4 @@ void main() async {
   print(permission);
   setupLocator();
   runApp(new MyApp());
+}
