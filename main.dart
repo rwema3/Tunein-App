@@ -32,3 +32,4 @@ class MyApp extends StatelessWidget {
       title: "Tune In Music Player",
       localizationsDelegates: [
         //LanguageService.flutterI18nDelegate,
+      ],
