@@ -78,4 +78,3 @@ class Wrapper extends StatelessWidget {
       collapsed: Material(
         child: BottomPanel(),
       ),
-      body: MaterialApp(
