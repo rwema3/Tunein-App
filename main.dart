@@ -37,4 +37,3 @@ class MyApp extends StatelessWidget {
         child: Column(
           mainAxisSize: MainAxisSize.max,
           children: <Widget>[
-            Expanded(
