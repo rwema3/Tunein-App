@@ -27,4 +27,3 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     //LanguageService.flutterI18nDelegate.load(null);
-    return MaterialApp(
