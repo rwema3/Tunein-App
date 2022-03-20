@@ -53,4 +53,3 @@ class MyApp extends StatelessWidget {
 
 class Wrapper extends StatelessWidget {
   final Widget child;
-  Wrapper({Key key, this.child}) : super(key: key);
