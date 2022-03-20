@@ -29,3 +29,4 @@ class MyApp extends StatelessWidget {
     //LanguageService.flutterI18nDelegate.load(null);
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+      title: "Tune In Music Player",
