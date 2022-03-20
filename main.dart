@@ -17,5 +17,4 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await SimplePermissions.requestPermission(Permission.ReadExternalStorage);
   PermissionStatus permission = await SimplePermissions.requestPermission(Permission.WriteExternalStorage);
-  print(permission);
-s
+ 
