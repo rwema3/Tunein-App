@@ -39,3 +39,4 @@ class MyApp extends StatelessWidget {
           children: <Widget>[
             Expanded(
               child: Root(),
+            ),
