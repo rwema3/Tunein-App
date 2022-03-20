@@ -30,3 +30,4 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Tune In Music Player",
+      localizationsDelegates: [
