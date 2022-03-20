@@ -60,3 +60,4 @@ class Wrapper extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SlidingUpPanel(
+      panel: NowPlayingScreen(controller: layoutService.albumPlayerPageController),
