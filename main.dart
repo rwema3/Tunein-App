@@ -34,3 +34,4 @@ class MyApp extends StatelessWidget {
         //LanguageService.flutterI18nDelegate,
       ],
       home: Wrapper(
+        child: Column(
