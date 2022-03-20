@@ -26,3 +26,4 @@ class MyApp extends StatelessWidget {
   //final LanguageService = locator<languageService>();
   @override
   Widget build(BuildContext context) {
+    //LanguageService.flutterI18nDelegate.load(null);
