@@ -78,3 +78,4 @@ class Wrapper extends StatelessWidget {
                             
 ),
 body: MaterialApp(
+    debugShowCheckedModeBanner: false,
