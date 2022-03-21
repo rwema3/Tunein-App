@@ -12,4 +12,4 @@ import 'package:sliding_up_panel/sliding_up_panel.dart';
 import 'services/locator.dart';
 import 'services/languageService.dart';
 Nano nano = Nano();
-void main() asyn
+void main() asy
