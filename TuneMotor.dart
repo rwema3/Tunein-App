@@ -63,3 +63,4 @@ class Wrapper extends StatelessWidget {
             minHeight: 60,
             maxHeight: MediaQuery.of(context).size.height,
             backdropEnabled: true,
+            backdropOpacity: 0.5,
