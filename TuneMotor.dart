@@ -83,3 +83,4 @@ body: MaterialApp(
     color: MyTheme.darkRed,
     home: child,
     ),
+    );
