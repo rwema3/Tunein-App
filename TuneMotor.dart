@@ -27,3 +27,5 @@ void main() async {
     Widget build(BuildContext context) {
         //LanguageService.flutterI18nDelegate.load(null);
         return MaterialApp(
+            
+      debugShowCheckedModeBanner: false,
