@@ -25,3 +25,4 @@ void main() async {
         @override
         
     Widget build(BuildContext context) {
+        //LanguageService.flutterI18nDelegate.load(null);
