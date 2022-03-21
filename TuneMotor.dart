@@ -32,3 +32,4 @@ void main() async {
       title: "Tune In Music Player",
       localizationsDelegates: [
           //LanguageService.flutterI18nDelegate,
+          ],
