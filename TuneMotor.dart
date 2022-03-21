@@ -61,3 +61,4 @@ class Wrapper extends StatelessWidget {
             panel: NowPlayingScreen(controller: layoutService.albumPlayerPageController),
             controller: layoutService.globalPanelController,
             minHeight: 60,
+            maxHeight: MediaQuery.of(context).size.height,
