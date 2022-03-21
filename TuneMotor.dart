@@ -68,3 +68,4 @@ class Wrapper extends StatelessWidget {
             onPanelClosed:(){
                 layoutService.albumPlayerPageController.jumpToPage(1);
                 },
+                onPanelSlide: (value){
