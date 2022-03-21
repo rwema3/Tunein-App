@@ -15,4 +15,4 @@ Nano nano = Nano();
 void main() async {
     WidgetsFlutterBinding.ensureInitialized();
     await SimplePermissions.requestPermission(Permission.ReadExternalStorage);
-    Permi
+    Permis
