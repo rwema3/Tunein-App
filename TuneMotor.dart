@@ -34,3 +34,4 @@ void main() async {
           //LanguageService.flutterI18nDelegate,
           ],
           home: Wrapper(
+              child: Column(
