@@ -77,3 +77,4 @@ class Wrapper extends StatelessWidget {
                             child: BottomPanel(),
                             
 ),
+body: MaterialApp(
