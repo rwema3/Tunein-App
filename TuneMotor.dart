@@ -55,3 +55,4 @@ class Wrapper extends StatelessWidget {
     final Widget child;
     Wrapper({Key key, this.child}) : super(key: key);
     final layoutService = locator<LayoutService>();
+    @override
