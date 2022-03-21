@@ -75,4 +75,3 @@ class Wrapper extends StatelessWidget {
             layoutService.onPanelOpen(value);
           }
         },
-      collapsed: Material(
