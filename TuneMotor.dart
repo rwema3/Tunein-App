@@ -52,3 +52,4 @@ void main() async {
                               }
                               
 class Wrapper extends StatelessWidget {
+    final Widget child;
