@@ -29,3 +29,4 @@ void main() async {
         return MaterialApp(
             
       debugShowCheckedModeBanner: false,
+      title: "Tune In Music Player",
