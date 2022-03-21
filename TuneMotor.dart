@@ -14,4 +14,4 @@ import 'services/languageService.dart';
 Nano nano = Nano();
 void main() async {
     WidgetsFlutterBinding.ensureInitialized();
-    await SimplePermissions.req
+    await SimplePermissions.requ
