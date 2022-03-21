@@ -18,3 +18,4 @@ void main() async {
     PermissionStatus permission = await SimplePermissions.requestPermission(Permission.WriteExternalStorage);
     print(permission);
     setupLocator();
+    runApp(new MyApp());
