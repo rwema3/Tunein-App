@@ -20,3 +20,4 @@ void main() async {
     setupLocator();
     runApp(new MyApp());
     }
+    class MyApp extends StatelessWidget {
